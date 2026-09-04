@@ -23,10 +23,10 @@ body:
     attributes:
       label: Area
       options:
-        - Camera
-        - Photo transfer
-        - Film / filters
-        - Gallery
+        - General
+        - Darkroom
+        - Custom Films
+        - Creative Lab
         - iOS app
         - Android app
         - Other
