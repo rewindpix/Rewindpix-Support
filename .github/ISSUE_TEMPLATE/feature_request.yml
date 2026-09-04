@@ -1,7 +1,7 @@
 name: Feature Request
 description: Suggest an idea for Rewindpix
-title: "[Feature] "
-labels: ["feature-request"]
+title: ""
+labels: ["feature"]
 
 body:
   - type: textarea

@@ -1,7 +1,7 @@
 name: Bug Report
 description: Report a problem with Rewindpix
-title: "[Bug] "
-labels: ["bug", "needs-triage"]
+title: "[BUG] "
+labels: ["bug", "user submitted"]
 
 body:
   - type: markdown
