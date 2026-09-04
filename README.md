@@ -34,12 +34,11 @@ We would love to hear it.
 
 Feature requests can include things like:
 
-A new camera feature
-A new film/filter option
-Improvements to photo transfer
-Changes to the RewindPix app
-Accessibility improvements
-Anything that would make RewindPix easier or more enjoyable to use
+- A new camera feature
+- A new film/filter option
+- Changes to the Rewindpix app
+- Accessibility improvements
+- Anything that would make Rewindpix easier or more enjoyable to use
 
 ### How to suggest a feature
 
