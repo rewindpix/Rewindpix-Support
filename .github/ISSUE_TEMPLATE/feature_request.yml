@@ -1,0 +1,39 @@
+name: Feature Request
+description: Suggest an idea for Rewindpix
+title: "[Feature] "
+labels: ["feature-request"]
+
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      placeholder: "I often find myself..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: What would you like Rewindpix to do?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Camera
+        - Photo transfer
+        - Film / filters
+        - Gallery
+        - iOS app
+        - Android app
+        - Other
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Anything else?
+      description: Mockups, examples, alternative solutions, etc.
