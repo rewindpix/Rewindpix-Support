@@ -1,20 +1,28 @@
 # Security Policy
 
-## Reporting a vulnerability
+## Vulnerability
 
-Please do not report security vulnerabilities through public GitHub Issues.
+A vulnerbility is something that could allow a person to access information or perform actions they normally should not be able to.
 
-Instead, use GitHub's private vulnerability reporting feature:
+For example:
 
-Security → Advisories → Report a vulnerability
+- You can see another person's private information
+- You can access another person's photos
+- You found a password, secret key, or private credential
+- You found a way to access something without permission
+- You discovered something that could put RewindPix users' privacy or accounts at risk
 
-Please include, where possible:
+Please do not post security problems as public Issues.
 
-- A description of the vulnerability
-- Steps to reproduce
-- Potential impact
-- Affected RewindPix version / platform
-- Any proof-of-concept material
+Publishing the details publicly could allow someone else to misuse the problem before we can fix it.
 
-Please avoid accessing or modifying data belonging to other users while
-investigating a vulnerability.
+### How to report it privately
+
+1. Go to the top of this GitHub repository.
+2. Click Security.
+3. Look for Report a vulnerability.
+4. Follow the form and describe what you found.
+
+Your report will be sent privately to the RewindPix team.
+
+If you are unsure whether something is a security problem or a normal bug, please use the private security report. We can move it to the normal bug tracker later if needed.
