@@ -30,9 +30,3 @@ body:
         - iOS app
         - Android app
         - Other
-
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: Anything else?
-      description: Mockups, examples, alternative solutions, etc.

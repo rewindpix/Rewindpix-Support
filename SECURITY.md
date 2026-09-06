@@ -18,10 +18,8 @@ Publishing the details publicly could allow someone else to misuse the problem b
 
 ### How to report it privately
 
-1. Go to the top of this GitHub repository.
-2. Click Security.
-3. Look for Report a vulnerability.
-4. Follow the form and describe what you found.
+1. Look for [Report a Security Vulnerability](https://github.com/n3xta/Rewindpix-Support/security/advisories/new).
+2. Follow the form and describe what you found.
 
 Your report will be sent privately to the RewindPix team.
 
