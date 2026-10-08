@@ -56,6 +56,7 @@ If someone has already suggested the same idea, you can open their issue and cli
 
 Please do NOT report security vulnerabilities as public issues.
 See [here](SECURITY.md) instead.
+Security at RewindPix LLC is overseen by me (Mumu Li), responsible for application security, vulnerability management, and security incident response.
 
 ---
 
